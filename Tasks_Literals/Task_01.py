@@ -17,8 +17,8 @@ num3=(int(input( "Enter num 3: ")))
 mul= (num1* num2 *num3)
 print(mul)
 
-num1=(int(input( "Enter num 1 : ")))
-num2=(int(input( "Enter num 2 : ")))
+num1=(float(input( "Enter num 1 : ")))
+num2=(float(input( "Enter num 2 : ")))
 div= (num1 % num2)
 print (div)
 
