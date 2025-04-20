@@ -16,3 +16,4 @@ user_age =(int(input("Enter a age \n")))
 #Ternury mode 2 # Input added here as well
 # Bad practice never write this way
 print("Yes you can go goa and vote" if  (int(input("Enter a age \n")))  >= 18 else print(" You are not allowed"))
+
